@@ -2,13 +2,13 @@
 
 A complete, ready-to-use Instagram marketing campaign plan for a **women's fashion e-commerce brand** targeting Gen Z (18–30) in India. Built as a single self-contained HTML file — no frameworks, no dependencies, no server needed.
 
----
+
 
 ## 🚀 Live Demo
 
 > Deploy to GitHub Pages in 2 minutes — see setup below.
 
----
+
 
 ## 📋 What's Inside
 
