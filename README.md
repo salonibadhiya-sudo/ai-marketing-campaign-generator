@@ -4,7 +4,7 @@ A complete, ready-to-use Instagram marketing campaign plan for a **women's fashi
 
 
 
-## 🚀 Live Demo
+## 🚀 Live Demo (https://salonibadhiya-sudo.github.io/ai-marketing-campaign-generator/)
 
 > Deploy to GitHub Pages in 2 minutes — see setup below.
 
